@@ -3,3 +3,12 @@ input {
   display:flex;
   flex-direction: column;
 }
+li {
+  background-color: #06386d;
+  color: rgb(228, 9, 9);
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}
